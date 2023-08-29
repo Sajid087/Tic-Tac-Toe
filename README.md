@@ -1,5 +1,4 @@
-# Tic-Tac-Toe
-![Tic Tac Toe](tic_tac_toe_banner.png)
+
 
 Welcome to the Tic Tac Toe Python Game repository! This project offers a classic implementation of the beloved Tic Tac Toe game, designed and developed using Python. 
 
